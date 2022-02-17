@@ -1,0 +1,64 @@
+Explicar o que é o portugol
+
+Software que permite a criação de programas usando a Linguagem de programação em portugues, muito utilizada para aprender como funciona a criação de lógicas de programação
+
+Exemplo, abara o "Soma dois numeros"
+
+Inteiro
+Real
+Caracter
+Lógico
+
+explique variaveis e mostre a programação "variaveis"
+
+Operadores
++
+-
+*
+/
+^
+
+Relações
+
+= igual
+< menor que
+> maior que
+<= menor ou igual
+>= maior ou igual
+<> diferente
+
+
+Mostrar o "Soma dois numeros" e explique melhor
+mostrar com todos os operadores logicos
+
+se (condição) entao
+	lista de comando
+senão
+	lista de comando
+fimse
+
+
+Mostrar o "condição"
+mostrar o "condição 2"
+
+Passar exercicio
+
+pagina 44 modulo 05 do livro de informatica
+mostrar a resposta abrir "resposta"
+
+Explicar o Loop
+
+exemplo na semana
+
+Segunda:  Acordar > Pegar o ônibus > ir trabalhar
+terça:    Acordar > Pegar o ônibus > ir trabalhar
+quarta:   Acordar > Pegar o ônibus > ir trabalhar
+quinta:   Acordar > Pegar o ônibus > ir trabalhar
+sexta:    Acordar > Pegar o ônibus > ir trabalhar
+Sabado finaliza loop
+
+
+abrir o mostrar "loop1"
+abrir o mostrar "repita ate"
+abrir o mostrar "para faca"
+abrir o mostrar "para faca1"

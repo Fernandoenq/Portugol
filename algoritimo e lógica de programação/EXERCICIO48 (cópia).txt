@@ -1,0 +1,33 @@
+Algoritmo "exercicio48"
+// Disciplina   : Algoritmos e Lógica de Programação
+// Professor   : Ely Prado 
+// Descrição   : 48. Faça uma função que recebe
+//um valor inteiro e verifica se o valor é positivo
+//ou negativo. Retornar um texto “positivo”
+//ou “negativo”
+var
+   texto: caractere
+
+   funcao tiponumero(n: inteiro) : caractere
+   var
+   inicio
+      se n>0 entao
+         retorne "positivo"
+      senao
+         se n<0 entao
+            retorne "negativo"
+         senao
+            retorne "neutro"
+         fimse
+      fimse
+   fimfuncao
+
+
+Inicio
+
+    escreval(tiponumero(3))
+
+    texto <- tiponumero(-3)
+    escreval(texto)
+
+Fimalgoritmo
